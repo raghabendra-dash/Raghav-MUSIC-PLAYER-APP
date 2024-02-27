@@ -12,6 +12,4 @@ This is a simple static music player created using pure HTML and CSS as part of 
 
 Project has 2 pages, one for home and another for single-playlist which can be accessed by clicking on any image/link of Popular Artist Section and also through the option provided in nav bar.
 
-Although the website is mostly responsive, still it has some minor issues for smaller screens and need improvements. It will be covered in updated versions.
 
-For demo purpose, there is only one song in this project.
