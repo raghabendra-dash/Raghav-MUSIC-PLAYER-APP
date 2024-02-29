@@ -1,5 +1,1 @@
-# MusicPlayer
 
-Music Player By Raghabendra
-
-I HAVE USED HTML AND CSS WITHOUT JAVASCRIPT AS PER DESCRIPTION.
