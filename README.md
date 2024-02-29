@@ -4,7 +4,7 @@ This is built using HTML5, CSS3 and BOOTSTRAP.
 
 You can see the website live at: https://raghabendra-dash.github.io/Raghav-MUSIC-PLAYER-APP/.
 
-In this project i have created front-end design of a music player in HTML and CSS to increease my command over them.
+In this project I have created front-end design of a music player in HTML and CSS to increease my command over them.
 
 ABOUT THIS PROJECT-:
 
